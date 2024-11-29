@@ -4,7 +4,7 @@
 
 This is my repository where I document my journey into the world of IT support. I've been practicing help desk skills by working through a mix of real-world problems and practice scenarios that I set up myself. To make it feel as real as possible, I built a ticketing system in Jira to track and resolve issues just like in a professional environment.
 
-I've also been diving into Active Directory in my [home lab,](https://github.com/pauljang3/HomeLab) tackling user and group management, group policies, and other directory service tasks to expand my skills.
+I've also been practicing using Active Directory in these scenarioes by using my [home lab,](https://github.com/pauljang3/HomeLab) tackling user and group management, group policies, and other directory service tasks to expand my skills.
 
 ## What You'll Find Here
 
