@@ -15,12 +15,6 @@ I've also been practicing using Active Directory in these scenarioes by using my
 
 I wanted a way to track my progress, document what I’ve learned, and show what I can do. This repository helps me practice writing clear, professional documentation while also serving as a portfolio of my skills.
 
-## How It’s Organized
-
-- **Real World Problems Folder:** Actual issues I've solved, with step-by-step documentation.
-- **Practice Scenarios Folder:** Common IT issues I’ve simulated for hands-on practice.
-- **Active Directory Lab Folder:** My work with AD, including managing users, permissions, and group policies.
-
 ## What’s Next
 
 I’m always looking to learn more and improve. I’ll keep adding new tickets and scenarios, whether they’re from my lab or real-life experiences. My goal is to keep growing my knowledge and share what I learn along the way.
