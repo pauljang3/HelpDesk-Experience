@@ -10,7 +10,6 @@ I've also been practicing using Active Directory in these scenarioes by using my
 
 - **Real World Problems:** A collection of issues I've faced and resolved in actual environments. These give a glimpse into how I approach real challenges.
 - **Practice Scenarios:** Simulated problems to cover a range of IT support topics, like troubleshooting network drives, fixing printer issues, and solving software problems. While these are made-up scenarios, they reflect the kinds of issues a help desk technician deals with daily.
-- **Active Directory Lab:** My experiments with Active Directory in a home lab setup. I've documented tasks like managing users and groups, creating group policies, and troubleshooting account issues.
 
 ## Why I Made This Repo
 
