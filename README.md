@@ -9,7 +9,7 @@ I've also been practicing using Active Directory in these scenarioes by using my
 ## What You'll Find Here
 
 - **[Real World Problems:](https://github.com/pauljang3/HelpDesk-Experience/tree/436d5dcac99f3e476c713d97a885dbf31bdb3959/realproblems)** A collection of issues I've faced and resolved in actual environments. These give a glimpse into how I approach real challenges.
-- **[Practice Scenarios:](https://github.com/pauljang3/HelpDesk-Experience/tree/45a46c3fc9b95b262e4c13eafb6cb658fa977a18/practicescenarioes)** Simulated problems to cover a range of IT support topics, like troubleshooting network drives, fixing printer issues, and solving software problems. While these are made-up scenarios, they reflect the kinds of issues a help desk technician deals with daily.
+- **[Practice Scenarios:](https://github.com/pauljang3/HelpDesk-Experience/tree/main/practicescenarioes)** Simulated problems to cover a range of IT support topics, like troubleshooting network drives, fixing printer issues, and solving software problems. While these are made-up scenarios, they reflect the kinds of issues a help desk technician deals with daily.
 
 ## Why I Made This Repo
 
