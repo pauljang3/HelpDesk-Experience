@@ -1,7 +1,7 @@
 # Internet Connectivity Issues (DHCP)
 
 ## Full Ticket Conversation
-- If you'd like to take a look at the whole ticket from start to resolution click here!
+- If you'd like to take a look at the whole ticket from start to resolution click [here!](https://github.com/pauljang3/HelpDesk-Experience/blob/main/practicescenarioes/InternetIssuesFullTicket.md)
   
 ## Issue Overview
 ![internetissuedhcp](https://github.com/user-attachments/assets/94a89f00-3794-4e82-9f0f-65549c2096b2)
