@@ -68,7 +68,7 @@ For more detailed steps you can refer to the guide I created [here.](https://doc
 ### What Went Well
 - Once I shifted my focus from the specific error codes to the broader issue of SMTP authentication, the solution became clearer.
 - The research into the recent changes to SMTP server security was time-consuming but ultimately led to the discovery of the Google App Password solution, which resolved the issue effectively.
-- I was able to successfully troubleshoot and implement the solution within a couple hours, which is a positive outcome for a complex issue.
+- I was able to successfully troubleshoot and implement the solution within several hours, which is a positive outcome for a complex issue.
 
 ### Areas for Improvement
 - I could have been more proactive in recognizing that the issue was likely not limited to the printer but part of a larger authentication issue affecting multiple devices. This could have saved time during the troubleshooting process.
