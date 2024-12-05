@@ -52,7 +52,7 @@ For more detailed steps you can refer to the guide I created [here.](https://doc
 ## Resolution
 ### Solution
 - The solution to the scan-to-email issue involved switching from the Bell SMTP server to Google's `smtp.gmail.com` server. This change was necessary due to the phasing out of support for "less secure apps" by public SMTP servers, including Bell.
-- After switching the server, I used 2 differemt Google App Password to authenticate both the printers and reconfigured the printer's SMTP settings to use port 587 for TLS.
+- After switching the server, I used 2 different Google App Password to authenticate both the printers and reconfigured the printer's SMTP settings to use port 587 for TLS.
   
 ### Testing
 - After implementing the solution, I tested the scan-to-email function on both printers. I was able to send a test email successfully from the Xerox and Brother printers, confirming that the issue had been resolved.
@@ -68,16 +68,16 @@ For more detailed steps you can refer to the guide I created [here.](https://doc
 ### What Went Well
 - Once I shifted my focus from the specific error codes to the broader issue of SMTP authentication, the solution became clearer.
 - The research into the recent changes to SMTP server security was time-consuming but ultimately led to the discovery of the Google App Password solution, which resolved the issue effectively.
-- I was able to successfully troubleshoot and implement the solution within several hours, which is a positive outcome for a complex issue.
+- I was able to troubleshoot and implement the solution within several hours, which is a positive outcome for a complex issue.
 
 ### Areas for Improvement
-- I could have been more proactive in recognizing that the issue was likely not limited to the printer but part of a larger authentication issue affecting multiple devices. This could have saved time during the troubleshooting process.
+- I could have been more proactive in recognizing that the issue was likely not limited to the printer but part of a larger authentication issue affecting multiple devices, which could have saved time during troubleshooting.
 - Initially, I focused too much on the error codes, which led me down the wrong troubleshooting path. A broader perspective could have helped me identify the core issue sooner.
 
 ### Lessons Learned
 - It’s important to take a step back and reassess the situation when stuck, especially when multiple devices are affected by the same issue.
 - Taking your time to examine the information provided can save a great deal of time.
 - Researching common solutions and considering potential external factors (such as SMTP server security changes) can save valuable time and lead to quicker resolutions.
-- Staying flexible and adjusting the approach based on new information is key in solving technical problems efficiently.
+- Staying flexible and adjusting the approach based on new insights is key to solving technical problems efficiently.
 
 ---
