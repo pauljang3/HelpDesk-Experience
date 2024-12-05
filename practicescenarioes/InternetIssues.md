@@ -54,14 +54,13 @@
 
 ## Reflection
 ### What Went Well
-- Directing the client to try different physical connections (Ethernet cable and port) helped rule out potential hardware problems before focusing on the software side.
+- Suggesting that the client try different physical connections (like swapping Ethernet cables and ports) was a good step. It helped eliminate potential hardware issues before diving into the software side.
 
 ### Areas for Improvement
-- I could have been more proactive by asking for the client's device identifier earlier in the process. This would have allowed me to begin remote troubleshooting while the user checked the physical connections, potentially leading to a quicker resolution time.
+- I realized I could have asked for the client’s device identifier sooner. If I had, I could’ve started remote troubleshooting while they were checking the physical connections. This might have sped up the process and saved some time.
 
 ### Lessons Learned
-- A systematic approach to testing both physical and network configurations (cable, port, IP address) can effectively pinpoint issues.
-- When dealing with client-facing troubleshooting, it’s helpful to provide clear instructions for each step to avoid confusion.
+- A step-by-step approach to checking both physical and network setups—like cables, ports, and IP addresses—really helps identify where the problem lies.
 
 ---
 
