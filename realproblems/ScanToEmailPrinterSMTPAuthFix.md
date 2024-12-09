@@ -17,7 +17,7 @@
 - I navigated to **Properties > Scan To Email**, where I found several SMTP configuration options, including the ability to send a test email to check if the configuration was working.
 - Without changing any configurations, I attempted to send a test email to myself to observe any error messages or issues.
 - Upon receiving an error message with an error code, I focused too much on the specific error codes and tried to resolve them by following the manufacturer’s documentation, even though I should have recognized that the issue was larger than just the printer, as multiple devices were affected.
-- After several frustrating attempts to troubleshoot the printer and following the manufacturer's steps for resolving the error codes, I took a step back and reassessed the situation:
+- After several frustrating attempts to troubleshoot the printer and following the manufacturer's steps for resolving the error codes, I took a step back and reassessed what I knew:
   - The issue was affecting multiple devices.
   - The problem had been ongoing for several months.
   - Some of the printer error messages pointed towards SMTP authentication issues.
