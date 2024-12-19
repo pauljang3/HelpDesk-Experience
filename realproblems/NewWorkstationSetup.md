@@ -16,6 +16,8 @@
    - Accessed the server connection tool by navigating to: `http://servername/connect`.
    - Downloaded the necessary connection software.
 
+![server](https://github.com/user-attachments/assets/1dc7fef5-4412-4b67-8bbf-76a4cfa19d8d)
+
 2. **Troubleshooting Connection Issues**
    - Initially, the workstation was unable to connect to the server.
    - Resolved the issue by manually configuring network settings:
@@ -31,7 +33,7 @@
 
 5. **Installing Client-Side Software**
    - Installed the required client-side software.
-   - Configured and added necessary data to the server as part of the setup.
+   - The software used data found on the server.
 
 6. **Installing Additional Software**
    - Installed all additional software required for the user's workstation.
