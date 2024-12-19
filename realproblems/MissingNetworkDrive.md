@@ -18,8 +18,6 @@
    ```cmd
    net use Z: \\[ServerName]\[SharedFolderName]
    net use H: \\[ServerName]\[SharedFolderName]\[SubfolderPath]
-  
-![cd](https://github.com/user-attachments/assets/722c8c7e-023c-45fa-a1a2-efb97765ebad)
 
 ### Challenges Faced
 - Initially, I couldn't locate the GUI method for mapping network drives, which added a bit of time to the troubleshooting process.
