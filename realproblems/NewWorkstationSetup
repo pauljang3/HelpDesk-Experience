@@ -1,0 +1,13 @@
+- Connected a new client workstation to Windows Server 2012
+- First connected to http:\\server\connect
+- Downloaded the connecting software
+- Initially, wouldn't let met connect to the server
+- Had to set a static IP of 192.168.0.60
+- Set default gateway as 192.168.0.1
+- Ensured workstation was joined to the domain,
+- Logged in as user
+- Mapped network drives
+- Installed client side software and added data on server
+- Installed Additional software necessary for workstation
+- Installed printer drivers
+- Connected Microsoft OneDrive
