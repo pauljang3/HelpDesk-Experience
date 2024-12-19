@@ -30,6 +30,8 @@
 
 4. **Mapping Network Drives**
    - Mapped the required network drives (e.g., `H:` and `Z:`) to ensure the user could access shared resources.
+     
+![cd](https://github.com/user-attachments/assets/ae1edda4-b455-4ebb-8228-3872b119f962)
 
 5. **Installing Client-Side Software**
    - Installed the required client-side software.
