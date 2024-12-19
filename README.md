@@ -13,10 +13,6 @@ I've also been practicing using Active Directory in these scenarioes by using my
 
 I wanted a way to track my progress, document what I’ve learned, and show what I can do. This repository helps me practice writing clear, professional documentation while also serving as a portfolio of my skills.
 
-## What’s Next
-
-I’m always looking to learn more and improve. I’ll keep adding new tickets and scenarios, whether they’re from my lab or real-life experiences. My goal is to keep growing my knowledge and share what I learn along the way.
-
 ---
 
 Thanks for stopping by! Feel free to explore the tickets and let me know if you have any feedback or suggestions.
