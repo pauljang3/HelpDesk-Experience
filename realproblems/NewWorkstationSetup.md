@@ -52,8 +52,8 @@
 ## Challenges Faced
 - **Connection Issues:** The workstation initially could not connect to the server until I manually configured the static IP and default gateway.
   
-## Why a Static IP Was Necessary
-A static IP was required to create a strong and reliable binding between the workstation and the server. This ensured consistent communication and access to network resources. Here are the key reasons:
+## Why a Static IP Was Used
+A static IP was used to create a strong and reliable binding between the workstation and the server. This ensured consistent communication and access to network resources. Here are the key reasons:
 
 1. **Direct and Consistent Connection**
    - Using a static IP ensures the workstation always communicates with the server using the same address, avoiding potential issues caused by dynamic IP changes.
