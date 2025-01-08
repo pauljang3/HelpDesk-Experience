@@ -7,12 +7,10 @@ This folder contains a collection of real-world IT issues I’ve encountered and
 - **Steps Taken**: A clear explanation of the troubleshooting steps and solutions I implemented.
 - **Lessons Learned**: Reflections on what I learned from each problem and how it has improved my skills.
 
-## Purpose
-This section highlights my ability to handle IT support challenges typically faced in SOHO environments, such as managing shared devices, resolving connectivity issues, and troubleshooting user systems. It demonstrates my troubleshooting approach and adaptability in smaller-scale setups.
-
 ## Troubleshooting Highlights
-- Resolving network drive mapping issues for a small team.
-- Troubleshooting and fixing software compatibility errors on user devices.
-- Investigating and resolving printing problems for shared office printers.
+- Resolving a [SMTP Authentication Error](https://github.com/pauljang3/HelpDesk-Experience/blob/main/realproblems/ScanToEmailPrinterSMTPAuthFix.md) for scan to email functions on printers.  
+- Fixing a [corrupt windows user profile.](https://github.com/pauljang3/HelpDesk-Experience/blob/main/realproblems/CorruptWindowsUser.md) (Restore point, In-place Installation, Delete SID of user profile)
+- Configuring and installing windows on a [new user workstation.](https://github.com/pauljang3/HelpDesk-Experience/blob/main/realproblems/NewWorkstationSetup.md) (Connecting to Windows Server 2012)
+
 
 Feel free to explore these examples to see how I apply my technical skills in a real-world context!
